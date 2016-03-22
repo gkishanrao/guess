@@ -67,4 +67,19 @@ public static void main(String[] args) {
 
 Out Put:
 
+Computer: Is the number  should be higher, lower, or Yes: 
+higher
+Is your number: 43
+Computer: Is the number  should be higher, lower, or Yes: 
+higher
+Is your number: 47
+Computer: Is the number  should be higher, lower, or Yes: 
+higher
+Is your number: 49
+Computer: Is the number  should be higher, lower, or Yes: 
+higher
+Is your number: 50
+Computer: Is the number  should be higher, lower, or Yes: 
+yes
+
  
